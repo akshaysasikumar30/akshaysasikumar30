@@ -1,10 +1,11 @@
-## Hi there 👋
-👋 Hi, I'm Akshay Sasikumar!
-💻 Aspiring Software Developer with a passion for building impactful solutions.
-🎓 Civil Engineering graduate following my true calling in technology.
-🌟 Experienced in developing real-world web applications during my journey in full-stack development.
-📚 Always learning and growing—explore my projects below!
+## Hey 👋 I'm Akshay
 
-💡 Philosophy: "Do what you love, and you'll never work a day in your life."
+🏗️ Civil engineer who got bored of concrete and started building with code instead.
 
-🌟 Open to opportunities in Software Development or related fields.
+💻 I write code, break code, fix code, and occasionally let AI write some of it too 🤖
+⚡ Some days I grind like a machine, some days I vibe-code and pretend it's productivity.
+
+🚀 Learning. Building. Shipping.
+🧠 Trying to stay useful before AI replaces us all.
+
+👇 Scroll down if you want proof I actually code.
